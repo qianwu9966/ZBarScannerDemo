@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\gitee-ci\\gogs_gitee_git\\android_studio\\ZBarScannerDemo\\zBarScannerDemo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\gitee-ci\\gogs_gitee_git\\android_studio\\ZBarScannerDemo\\zBarScannerDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,113,152",
+                        "endColumns": "54,37,65",
+                        "endOffsets": "107,146,213"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,148",
+                        "endColumns": "54,37,65",
+                        "endOffsets": "105,143,209"
+                    }
+                }
+            ]
+        }
+    ]
+}

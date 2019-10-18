@@ -1,0 +1,8 @@
+com.dm.zbar.android.examples
+drawable ic_launcher
+id qrscan_btn
+id scan_btn
+layout main
+string app_name
+string scan
+string scan_only_qr_codes
